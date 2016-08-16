@@ -1,0 +1,6 @@
+[ Mon Aug 15 11:30:00 2016 ]=>  سجااد [71864543] added SuperGroup
+ 
+[ Mon Aug 15 11:30:06 2016 ]=>  سجااد [71864543] locked link posting 
+ 
+[ Mon Aug 15 11:30:12 2016 ]=>  سجااد [71864543] set SuperGroup to: mute Photo
+ 
