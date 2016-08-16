@@ -1,5 +1,5 @@
 do local _ = {
-  about_text = "Teleseed v4\nAn advanced administration bot based on TG-CLI written in Lua\n\nhttps://github.com/SEEDTEAM/TeleSeed\n\nAdmins\n@iwals [Founder]\n@imandaneshi [Developer]\n@POTUS [Developer]\n@seyedan25 [Manager]\n@aRandomStranger [Admin]\n\nSpecial thanks to\nawkward_potato\nSiyanew\ntopkecleon\nVamptacus\n\nOur channels\n@teleseedch [English]\n@iranseed [persian]\n\nOur website \nhttp://teleseed.seedteam.org/\n",
+  about_text = "DEVLAITH v4\nAn advanced administration bot based on TG-CLI written in Lua\n\nhttps://github.com/devlaith/DEVLAITH\n\nAdmins\n@II07II [Founder]\n@II07II [Developer]\n@II07II [Developer]\n@II07II [Manager]\n@aRandomStranger [Admin]\n\nSpecial thanks to\nawkward_potato\nSiyanew\ntopkecleon\nVamptacus\n\nOur channels\nhttps://telegram.me/joinchat/CUf-ST-UwlYXKMQWuHjVYw [English]\nhttps://telegram.me/joinchat/CUf-ST-UwlYXKMQWuHjVYw [persian]\n\nOur website \nhttp://luvehl-host.89m.com/\n",
   enabled_plugins = {
     "addsudo",
     "admin",
