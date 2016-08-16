@@ -30,4 +30,7 @@ chmod +x launch.sh
 
 تحياتي #DEVLAITH 💠✔️
 
+قناة البوت https://telegram.me/joinchat/CUf-ST-UwlYXKMQWuHjVYw 💠✔️
+
+
 @II07II 💠🏌
